@@ -19,6 +19,7 @@
   "homepage": "https://github.com/EnesUcar1/COVID-19#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "fs": "0.0.1-security",
     "nodeman": "^1.1.2"
   }
 }
